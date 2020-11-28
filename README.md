@@ -1,5 +1,8 @@
 # The Crappy Amazon Bot
 
+This repo uses the [pyautogui](https://github.com/asweigart/pyautogui) library, which is distributed under the BSD 3-Clause "New" or "Revised" License
+This repo uses the [opencv-python](https://github.com/asweigart/pyautogui) library, which is distributed under the MIT License
+
 ## Motivation
 
 I'm tired of scalpers buying up in demand parts (like the latest processors and graphics cards) and upselling them. I wanted to create a way to help regular people get the parts they wanted without building something that could be scaled to be used for high volume purposes, and thus the Crappy Amazon Bot was created. Please distribute this bot.
