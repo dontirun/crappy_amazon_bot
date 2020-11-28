@@ -1,6 +1,7 @@
 # The Crappy Amazon Bot
 
 This repo uses the [pyautogui](https://github.com/asweigart/pyautogui) library, which is distributed under the BSD 3-Clause "New" or "Revised" License
+
 This repo uses the [opencv-python](https://github.com/asweigart/pyautogui) library, which is distributed under the MIT License
 
 ## Motivation
